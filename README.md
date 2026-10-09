@@ -13,7 +13,7 @@ The objective is to make retail data easier to explore and support decisions abo
 - How does average unit price differ by product category?
 
 ## Dashboard Preview
-![Retail Sales and Customer Demographics Dashboard](images/retail-sales-dashboard.jpg)
+![Retail Sales and Customer Demographics Dashboard](retail-sales-dashboard.jpg)
 
 ## Metrics Shown in the Screenshot
 | Metric | Displayed value |

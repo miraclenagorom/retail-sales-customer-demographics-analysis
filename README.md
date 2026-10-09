@@ -33,7 +33,7 @@ These are values transcribed from the dashboard screenshot. The original dataset
 - Average unit price by product category
 
 ## Tools
-The screenshot appears to be a business-intelligence dashboard. Please confirm the exact tool used before treating Power BI or another product as a verified project tool.
+The screenshot appears to be a business-intelligence dashboard.
 
 ## Business Relevance
 The dashboard structure could help retail stakeholders investigate customer segments, product performance, seasonality, and pricing. Specific business conclusions should be added only after the underlying data and calculations are recovered or recreated.
